@@ -2,7 +2,7 @@
 
 **`Developer under construction`**
 
-My name is Nicolas Alves Gualberto, I am 18 years old and I am from Paraíba. Currently, I am studying independently. I am passionate about technology and I share my knowledge through my YouTube channel "[Ponto de Partida](https://www.youtube.com/@imnicollas)", where I post about my daily life and my programming studies.
+My name is Nicolas Alves Gualberto, I am 18 years old and I am from Paraíba. Currently, I am studying independently. I am passionate about technology and I share my knowledge through my YouTube channel "[Rotina em Código - Nic](https://www.youtube.com/@imnicollas)", where I post about my daily life and my programming studies.
 
 <p align="left">
     <a href="https://www.youtube.com/@imnicollas?sub_confirmation=1">
