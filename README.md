@@ -13,7 +13,6 @@ I love coding, learning, sharing ideias, and I document everything on my YouTube
 
 Here you’ll find my progress, my projects, and my evolution as a future developer.  
 
-
 ---
 
 ## 📣 Social & GitHub Metrics
@@ -74,78 +73,4 @@ Here you’ll find my progress, my projects, and my evolution as a future develo
     alt="Jupyter" 
     title="Jupyter Notebook"
     width="40px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" 
-/>
-
-<br/><br/><br/>
-
----
-
-## 📊 Statistics
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats-salesp07.vercel.app/api?username=nicgualberto&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
-  />
-
-  <img 
-    align="left" 
-    alt="Top Languages" 
-    height="200" 
-    src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=nicgualberto&layout=compact&theme=tokyonight" 
-  />
-</p>
-
-<br/><br/><br/><br/>
-
----
-
-## 🧩 About my journey
-
-I'm building my foundation in programming — every project, every line of code, every study day is a step toward becoming a high-level developer.  
-Consistency and curiosity define my path.
-
----
-
-## 📬 Contact
-
-<p align="left">
-  <a href="mailto:nicolas.gualberto.dev@gmail.com">
-    <img 
-      alt="Gmail"
-      title="Gmail"
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-    />
-  </a>
-
-  <a href="https://www.instagram.com/nicollas3_/">
-    <img 
-      alt="Instagram"
-      title="Instagram"
-      src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"
-    />
-  </a>
-
-  <a href="https://www.youtube.com/@imnicollas">
-    <img 
-      alt="YouTube"
-      title="YouTube"
-      src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
-    />
-  </a>
-</p>
-
-
----
-
-## ⭐ Final note
-
-Thanks for visiting!  
-Feel free to explore my repositories, follow my journey, and connect with me.
-
-****
+    style="padding
