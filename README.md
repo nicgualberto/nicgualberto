@@ -106,10 +106,11 @@ Here you’ll find my progress, my projects, and my evolution as a future develo
 
 ## 🧩 About my journey
 
-<p align="left">
+<!-- limpa o alinhamento das imagens anteriores -->
+<div style="clear: both;"></div>
+
 I'm building my foundation in programming — every project, every line of code, and every study session is a step toward becoming a high-level developer.  
 Consistency and curiosity guide my path.
-</p>
 
 <br/>
 
