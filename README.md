@@ -119,7 +119,7 @@ Consistency and curiosity guide my path.
 ## 📬 Contact
 
 <p align="left">
-  <a href="nicolas.gualberto.dev@gmail.com">
+  <a href="mailto:nicolas.gualberto.dev@gmail.com">
     <img 
       alt="Gmail"
       title="Gmail"
