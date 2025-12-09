@@ -73,19 +73,17 @@ My name is Nicolas Alves Gualberto, I am 18 years old and I am from Paraíba. Cu
 <p>
   <img 
     align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=nicgualberto&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
+    height="200"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nicgualberto&show_icons=true&theme=tokyonight"
   />
 
   <img 
     align="left" 
-    alt="Top Languages" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicgualberto&layout=compact&theme=tokyonight" 
+    height="200"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nicgualberto&layout=compact&theme=tokyonight"
   />
 </p>
 
 <br/><br/><br/><br/>
+
 
