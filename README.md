@@ -68,13 +68,17 @@ My name is Nicolas Alves Gualberto, I am 18 years old and I am from Paraíba. Cu
 <br/>
 <br/>
 
-### 📊 Statistics
-
 <p>
   <img 
     align="left" 
     height="200"
-    src="https://raw.githubusercontent.com/lowlighter/metrics/examples/metrics.plugin.languages.svg"
+    src="https://github-readme-stats-salesp07.vercel.app/api?username=nicgualberto&show_icons=true&theme=tokyonight"
+  />
+
+  <img 
+    align="left" 
+    height="200"
+    src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=nicgualberto&layout=compact&theme=tokyonight"
   />
 </p>
 
