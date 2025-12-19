@@ -9,7 +9,7 @@
 
 I’m Nicolas Alves Gualberto, 18 y/o, from Paraíba — a tech enthusiast currently studying independently and building my path into Computer Science.  
 I love coding, learning, sharing ideias, and I document everything on my YouTube channel:  
-🎥 **[Rotina em Código - Nic](https://www.youtube.com/@imnicollas)**  
+🎥 **[Rotina em Código - Nic](https://www.youtube.com/@nicgualberto)**  
 
 Here you’ll find my progress, my projects, and my evolution as a future developer.  
 
