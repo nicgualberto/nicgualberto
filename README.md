@@ -130,7 +130,7 @@ Consistency and curiosity guide my path.
     />
   </a>
 
-  <a href="https://www.instagram.com/nicgualberto__/">
+  <a href="https://www.instagram.com/nicgualberto_/">
     <img 
       alt="Instagram"
       title="Instagram"
