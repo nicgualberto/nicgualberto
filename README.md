@@ -130,7 +130,7 @@ Consistency and curiosity guide my path.
     />
   </a>
 
-  <a href="https://www.instagram.com/nicollas3_/">
+  <a href="https://www.instagram.com/nicgualberto__/">
     <img 
       alt="Instagram"
       title="Instagram"
@@ -138,7 +138,7 @@ Consistency and curiosity guide my path.
     />
   </a>
 
-  <a href="https://www.youtube.com/@imnicollas">
+  <a href="https://www.youtube.com/@nigualberto">
     <img 
       alt="YouTube"
       title="YouTube"
