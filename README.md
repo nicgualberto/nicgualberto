@@ -21,8 +21,8 @@ Here you’ll find my progress, my projects, and my evolution as a future develo
     <a href="https://www.youtube.com/@nicgualberto?sub_confirmation=1">
         <img 
             alt="youtube subscribers" 
-            title="Subscribers" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCNKmn3vmxycrjGZILnAPr1g?color=%23E05D44&label=Subscribers&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            title="Inscreva-se no meu canal" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
     <a href="https://www.youtube.com/@nicgualberto">
