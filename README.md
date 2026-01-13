@@ -25,7 +25,7 @@ Here you’ll find my progress, my projects, and my evolution as a future develo
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCNKmn3vmxycrjGZILnAPr1g?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://www.youtube.com/@nicgualberto">
+    <a href="https://www.youtube.com/@">
         <img 
             alt="youtube views" 
             title="Views on YouTube" 
