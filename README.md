@@ -47,5 +47,5 @@
 
 
 <p align="center">
-  <em>Keep building! Step by step.</em>
+  <em>Keep building! Step by step.🚶‍➡️</em>
 </p>
