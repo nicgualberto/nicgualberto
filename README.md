@@ -40,7 +40,7 @@
 ### 💻 Tech Stack
 
 <p align="center">
-  <img width="41%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nigualberto&layout=compact&hide_border=true&theme=dark" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nigualberto&layout=compact&theme=dark" />
 </p>
 
 ---
