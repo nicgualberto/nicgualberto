@@ -41,8 +41,13 @@
 ###
 
 <p align="left">- 📚 Studying Django & Databases<br>- 💻 Building backend projects with Python<br>- 📹 I create dev content on [YouTube](https://www.youtube.com/@nicgualberto), [Instagram](https://www.instagram.com/@nicgualberto_/) and [TikTok](https://www.tiktok.com/@nicgualberto_)
+  
 <br>- 🚀 Improving problem-solving and clean code practices</p>
-
+- ✨ Cofounder of [@usepora](https://usepora.com.br/)
+- 🔭 Software Engineer at [Mercado Libre](https://www.mercadolivre.com.br/)
+- 🧑‍🏫 Bachelor's in Computer Science
+- 🏆 1x Microsoft MVP in Developer Technologies
+- 📹 I create dev content on [YouTube](https://www.youtube.com/@kipperdev) and [Instagram](https://www.instagram.com/kipper.dev/)
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
