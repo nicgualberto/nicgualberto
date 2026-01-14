@@ -31,20 +31,34 @@
 
 ### 👩‍💻 About Me
 
-- 📚 Studying Django & Databases
-- 💻 Building backend projects with Python
+- 💻 Building real-world projects with Python
+- 🔍 Curious, disciplined, and always improving through practice
 - 📹 I create dev content on [YouTube](https://www.youtube.com/@nicgualberto), [Instagram](https://www.instagram.com/@nicgualberto_/) and [TikTok](https://www.tiktok.com/@nicgualberto_)
+
+---
+
+### 📊 Statistic
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats-salesp07.vercel.app/api?username=nicgualberto&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=nicgualberto&layout=compact&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 💻 Tech Stack
 
 <p align="center">
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nigualberto&layout=compact&theme=dark&cache_seconds=86400" />
+  <img width="41%" src="https://skillicons.dev/icons?i=python,django,linux,git,github&perline=6" />
 </p>
 
 ---
-
 <p align="center">
   <em>Keep building! Step by step.🚶‍➡️</em>
 </p>
