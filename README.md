@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Nic 👋</h1>
 
 <p align="center">
-  <em>Software Engineer • Tech Content Creator 
+  <em>Software Engineer • Tech Content Creator
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  I'm passionate about technology, education, and creativity.  
+  I'm passionate about technology, education, and creativity.
   Here you’ll find projects and my experiments with AI, Python, Jupyter and more :)
 </p>
 
@@ -34,17 +34,16 @@
 - 📚 Studying Django & Databases
 - 💻 Building backend projects with Python
 - 📹 I create dev content on [YouTube](https://www.youtube.com/@nicgualberto), [Instagram](https://www.instagram.com/@nicgualberto_/) and [TikTok](https://www.tiktok.com/@nicgualberto_)
+
 ---
 
-### 💻 Tech Stack Highlights
+### 💻 Tech Stack
 
 <p align="center">
-  <img width="41%" src="[text](https://streak-stats.demolab.com?user=nigualberto&theme=dark&hide_border=true)" />
+  <img width="41%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nigualberto&layout=compact&hide_border=true&theme=dark" />
 </p>
 
 ---
-
-
 
 <p align="center">
   <em>Keep building! Step by step.🚶‍➡️</em>
