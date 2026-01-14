@@ -1,157 +1,55 @@
-<!-- GIF no topo -->
-<p align="center">
-  <img src="https://i.gifer.com/7VE.gif" width="250" alt="coding gif">
-</p>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-# 👨🏻‍💻 Call-me Nic
+###
 
-**`Developer under construction`**
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
 
-I’m Nicolas Alves Gualberto, 18 y/o, from Paraíba — a tech enthusiast currently studying independently and building my path into Computer Science.  
-I love coding, learning, sharing ideias, and I document everything on my YouTube channel:  
-🎥 **[Rotina em Código - Nic](https://www.youtube.com/@nicgualberto)**  
+###
 
-Here you’ll find my progress, my projects, and my evolution as a future developer.  
+<h1 align="center">hey there 👋</h1>
 
----
+###
 
-## 📣 Social & GitHub Metrics
+<h3 align="left">👩‍💻  About Me</h3>
 
-<p align="left">
-    <a href="https://www.youtube.com/@nicgualberto?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCNKmn3vmxycrjGZILnAPr1g?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@nicgualberto">
-        <img 
-            alt="youtube views" 
-            title="Views on YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCNKmn3vmxycrjGZILnAPr1g?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/nicgualberto?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total Stars" 
-            title="GitHub Stars" 
-            src="https://custom-icon-badges.demolab.com/github/stars/nicgualberto?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
-        />
-    </a>
-    <a href="https://github.com/nicgualberto?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="GitHub Followers" 
-            src="https://custom-icon-badges.demolab.com/github/followers/nicgualberto?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
-        />
-    </a>
-</p>
+###
 
----
+<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
-## 🤖 Languages & Technologies
+###
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img
-    align="left" 
-    alt="Jupyter" 
-    title="Jupyter Notebook"
-    width="40px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" 
-/>
+<h3 align="left">🛠 Language and tools</h3>
 
-<br/><br/><br/>
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+</div>
 
-## 📊 Statistics
+###
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats-salesp07.vercel.app/api?username=nicgualberto&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
-  />
+<h3 align="left">🔥   My Stats :</h3>
 
-  <img 
-    align="left" 
-    alt="Top Languages" 
-    height="200" 
-    src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=nicgualberto&layout=compact&theme=tokyonight" 
-  />
-</p>
-
-<br/><br/><br/><br/>
-
----
-
-<br clear="both"/>
-
----
-
-## 🧩 About my journey
-
-<br clear="both"/>
-
-I'm building my foundation in programming — every project, every line of code, and every study session is a step toward becoming a high-level developer.  
-Consistency and curiosity guide my path.
-
-<br/>
-
----
-
-## 📬 Contact
-
-<p align="left">
-  <a href="mailto:nicolas.gualberto.dev@gmail.com">
-    <img 
-      alt="Gmail"
-      title="Gmail"
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-    />
-  </a>
-
-  <a href="https://www.instagram.com/nicgualberto_/">
-    <img 
-      alt="Instagram"
-      title="Instagram"
-      src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"
-    />
-  </a>
-
-  <a href="https://www.youtube.com/@nigualberto">
-    <img 
-      alt="YouTube"
-      title="YouTube"
-      src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
-    />
-  </a>
-</p>
-
----
-
-## ⭐ Final note
-
-Thanks for visiting!  
-Feel free to explore my repositories, follow my journey, and connect with me.
-
-****
+###
