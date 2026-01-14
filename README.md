@@ -40,7 +40,8 @@
 
 ###
 
-<p align="left">- 📚 Studying Django & Databases<br>- 💻 Building backend projects with Python<br>- 📹 I create dev content on<br>- 🚀 Improving problem-solving and clean code practices</p>
+<p align="left">- 📚 Studying Django & Databases<br>- 💻 Building backend projects with Python<br>- 📹 I create dev content on [YouTube](https://www.youtube.com/@nicgualberto), [Instagram](https://www.instagram.com/@nicgualberto_/) and [TikTok](https://www.tiktok.com/@nicgualberto_)
+<br>- 🚀 Improving problem-solving and clean code practices</p>
 
 ###
 
