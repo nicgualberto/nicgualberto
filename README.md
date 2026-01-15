@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  I'm passionate about technology, education, and creativity.
+  I'm passionate about technology and education.
   Here you’ll find projects and my experiments with AI, Python, Jupyter and more :)
 </p>
 
@@ -33,7 +33,7 @@
 
 - 💻 Building real-world projects 
 - 🔍 Curious, disciplined, and always improving through practice
-- 📹 I create dev content on [YouTube](https://www.youtube.com/@nicgualberto), [Instagram](https://www.instagram.com/@nicgualberto_) and [TikTok](https://www.tiktok.com/@nicgualberto_)
+- 📹 I create dev content on [YouTube](https://www.youtube.com/@nicgualberto), [Instagram](https://www.instagram.com/nicgualberto_/) and [TikTok](https://www.tiktok.com/@nicgualberto_)
 
 ---
 
