@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Nic 👋</h1>
 
 <p align="center">
-  <em>Software Engineer • Tech Content Creator
+  <em>Computer Student • Tech Content Creator
 </p>
 
 <p align="center">
