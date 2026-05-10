@@ -33,7 +33,7 @@
 
 - 💻 Building real-world projects 
 - 🔍 Curious, disciplined, and always improving through practice
-- 📹 I create dev content on [YouTube](https://www.youtube.com/@nicgualberto), [Instagram](https://www.instagram.com/nicgualberto_/) and [TikTok](https://www.tiktok.com/@nicgualberto_)
+- 📹 I create dev content on [YouTube](https://www.youtube.com/@ProjetoNic), [Instagram](https://www.instagram.com/nicgualberto_/) and [TikTok](https://www.tiktok.com/@nicgualberto_)
 
 ---
 
