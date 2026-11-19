@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/n%C3%ADcolas-alves-gualberto-7baa243a0/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin">
   </a>
-  <a href="https://linktr.ee/nic.codes_">
+  <a href="https://linktr.ee/nicgualberto_">
     <img src="https://img.shields.io/badge/Linktree-Visit-green?style=flat&logo=linktree">
   </a>
   <a href="mailto:nicolas.gualberto.dev@gmail.com">
