@@ -22,7 +22,7 @@
   <a href="https://linktr.ee/nicgualberto_">
     <img src="https://img.shields.io/badge/Linktree-Visit-green?style=flat&logo=linktree">
   </a>
-  <a href="mailto:nicolas.gualberto.dev@gmail.com">
+  <a href="mailto:nicgualberto.ctt@gmail.com">
     <img src="https://img.shields.io/badge/nicolas.gualberto.dev@gmail.com-Gmail-lightgrey?style=flat&logo=gmail">
   </a>
 </p>
